@@ -130,7 +130,8 @@ to control the arm, a node must be used to publish information to the
 - Points
 	- Defines the various points the robotic arm must change to
 	- It is an array of points of type : 
-	  ```trajectory_msgs/JointTrajectoryPoint.msg
+	  ```
+        trajectory_msgs/JointTrajectoryPoint.msg
       ```
 	 - The JointTrajectoryPoint also requires multiple values
 		 - positions: defines the required end positions of the servos
