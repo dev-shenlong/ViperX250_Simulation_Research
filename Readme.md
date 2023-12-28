@@ -20,7 +20,7 @@ In order to install the required libraries for simulation please run the followi
 
 In order to use the simulation files you must use the simulations present in the interbotix package. The simulation can be launched with the following command
 
-    ros2 launch interbotix_xsarm_sim xsarm_gz_classic.launch.py robot_model:=vx250 use_position_controllers:=true dof:=5
+    ros2 launch interbotix_xsarm_sim xsarm_gz_classic.launch.py robot_model:=vx250 dof:=5
 
 Here there are a few arguments that have been used namely
 
@@ -28,8 +28,6 @@ Here there are a few arguments that have been used namely
 | Argument | Function |
 |---|---|
 | robot_model | Used to specify which model of the robotic arm we will be working with, here it is the Viper X 250 |
-|use_position_controllers| Set to true if you want to have access to the controllers in order to manipulate the arm|
-|use_trajectory_controllers|instead of directly setting the position of the servos as in the previous command, we can use this to set the servos to move in a certain trajectory|
 |dof| used to specify the number of degrees of freedom of the robot|
 
 > **Note** in order to manipulate the robot the physics must be unpaused, it can be done so by the following command
