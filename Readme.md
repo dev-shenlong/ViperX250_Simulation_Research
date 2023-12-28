@@ -24,6 +24,21 @@ In order to use the simulation files you must use the simulations present in the
 
 Here there are a few arguments that have been used namely
 
+## To launch the Arm Controller GUI
+
+first build the package by going to parent directory
+```
+	colcon build
+```
+Then source the package using 
+```
+	source install/setup.sh
+```
+Finally run the package using the following command
+```
+	ros2 run interbotix_vx250_sim vx250_custom_controller 
+```
+
 | Argument | Function |
 |---|---|
 | robot_model | Used to specify which model of the robotic arm we will be working with, here it is the Viper X 250 |
