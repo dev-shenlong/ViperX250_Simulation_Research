@@ -1,0 +1,42 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages",
+        "/home/shenlong/ros2_ws/build/my_robot_controller",
+        "/home/shenlong/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/shenlong/ros2_ws/build/my_py_pkg",
+        "/home/shenlong/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/shenlong/ros2_ws/build/interbotix_test",
+        "/home/shenlong/ros2_ws/install/interbotix_test/lib/python3.10/site-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_perception_modules/lib/python3.10/site-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_moveit_interface_msgs/local/lib/python3.10/dist-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages",
+        "/home/shenlong/apriltag_ws/install/apriltag_ros/local/lib/python3.10/dist-packages",
+        "/home/shenlong/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/shenlong/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages",
+        "/home/shenlong/ros2_ws/build/my_robot_controller",
+        "/home/shenlong/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/shenlong/ros2_ws/build/my_py_pkg",
+        "/home/shenlong/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/shenlong/ros2_ws/build/interbotix_test",
+        "/home/shenlong/ros2_ws/install/interbotix_test/lib/python3.10/site-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_perception_modules/lib/python3.10/site-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_moveit_interface_msgs/local/lib/python3.10/dist-packages",
+        "/home/shenlong/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages",
+        "/home/shenlong/apriltag_ws/install/apriltag_ros/local/lib/python3.10/dist-packages",
+        "/home/shenlong/eyrc_hb/hb_task1b_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/shenlong/eyrc_hb/hb_task1b_ws/install/hb_task_1b/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

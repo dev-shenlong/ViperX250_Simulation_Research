@@ -1,0 +1,37 @@
+[1.220s] Invoking command in '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/src/interbotix_vx250_sim': PYTHONPATH=/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/prefix_override:/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/interbotix_vx250_sim build --build-base /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build install --record /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/install.log --single-version-externally-managed
+[1.560s] running egg_info
+[1.561s] creating ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info
+[1.561s] writing ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/PKG-INFO
+[1.563s] writing dependency_links to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/dependency_links.txt
+[1.564s] writing entry points to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/entry_points.txt
+[1.564s] writing requirements to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/requires.txt
+[1.564s] writing top-level names to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/top_level.txt
+[1.564s] writing manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+[1.566s] reading manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+[1.566s] writing manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+[1.566s] running build
+[1.567s] running build_py
+[1.567s] creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build
+[1.567s] creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib
+[1.567s] creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim
+[1.567s] copying interbotix_vx250_sim/vx250_gazebo_controller.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim
+[1.567s] copying interbotix_vx250_sim/__init__.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim
+[1.567s] running install
+[1.567s] running install_lib
+[1.568s] creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim
+[1.568s] copying /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim/vx250_gazebo_controller.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim
+[1.568s] copying /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim/__init__.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim
+[1.569s] byte-compiling /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim/vx250_gazebo_controller.py to vx250_gazebo_controller.cpython-310.pyc
+[1.570s] byte-compiling /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim/__init__.py to __init__.cpython-310.pyc
+[1.570s] running install_data
+[1.571s] creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index
+[1.571s] creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index/resource_index
+[1.571s] creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index/resource_index/packages
+[1.571s] copying resource/interbotix_vx250_sim -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index/resource_index/packages
+[1.571s] copying package.xml -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/interbotix_vx250_sim
+[1.571s] running install_egg_info
+[1.573s] Copying ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info to /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim-0.0.0-py3.10.egg-info
+[1.573s] running install_scripts
+[1.595s] Installing vx250_custom_controller script to /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/interbotix_vx250_sim
+[1.595s] writing list of installed files to '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/install.log'
+[1.630s] Invoked command in '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/src/interbotix_vx250_sim' returned '0': PYTHONPATH=/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/prefix_override:/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/interbotix_vx250_sim build --build-base /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build install --record /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/install.log --single-version-externally-managed

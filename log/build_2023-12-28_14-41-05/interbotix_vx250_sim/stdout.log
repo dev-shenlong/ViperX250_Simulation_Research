@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info
+writing ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/entry_points.txt
+writing requirements to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/requires.txt
+writing top-level names to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/top_level.txt
+writing manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+reading manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build
+creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib
+creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim
+copying interbotix_vx250_sim/vx250_gazebo_controller.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim
+copying interbotix_vx250_sim/__init__.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim
+running install
+running install_lib
+creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim
+copying /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim/vx250_gazebo_controller.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim
+copying /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/build/lib/interbotix_vx250_sim/__init__.py -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim
+byte-compiling /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim/vx250_gazebo_controller.py to vx250_gazebo_controller.cpython-310.pyc
+byte-compiling /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index
+creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index/resource_index
+creating /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index/resource_index/packages
+copying resource/interbotix_vx250_sim -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/ament_index/resource_index/packages
+copying package.xml -> /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/share/interbotix_vx250_sim
+running install_egg_info
+Copying ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info to /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim-0.0.0-py3.10.egg-info
+running install_scripts
+Installing vx250_custom_controller script to /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/install/interbotix_vx250_sim/lib/interbotix_vx250_sim
+writing list of installed files to '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/build/interbotix_vx250_sim/install.log'

@@ -1,0 +1,3 @@
+[console_scripts]
+vx250_custom_controller = interbotix_vx250_sim.vx250_gazebo_controller:main
+
