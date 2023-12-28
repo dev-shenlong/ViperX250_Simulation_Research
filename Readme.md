@@ -24,6 +24,18 @@ In order to use the simulation files you must use the simulations present in the
 
 Here there are a few arguments that have been used namely
 
+
+| Argument | Function |
+|---|---|
+| robot_model | Used to specify which model of the robotic arm we will be working with, here it is the Viper X 250 |
+|use_position_controllers| Set to true if you want to have access to the controllers in order to manipulate the arm|
+|use_trajectory_controllers|instead of directly setting the position of the servos as in the previous command, we can use this to set the servos to move in a certain trajectory|
+|dof| used to specify the number of degrees of freedom of the robot|
+
+> **Note** in order to manipulate the robot the physics must be unpaused, it can be done so by the following command
+
+    ros2 service call /unpause_physics std_srvs/srv/Empty "{}"
+
 ## To launch the Arm Controller GUI
 
 first build the package by going to parent directory
@@ -39,17 +51,6 @@ Finally run the package using the following command
 	ros2 run interbotix_vx250_sim vx250_custom_controller 
 ```
 
-| Argument | Function |
-|---|---|
-| robot_model | Used to specify which model of the robotic arm we will be working with, here it is the Viper X 250 |
-|use_position_controllers| Set to true if you want to have access to the controllers in order to manipulate the arm|
-|use_trajectory_controllers|instead of directly setting the position of the servos as in the previous command, we can use this to set the servos to move in a certain trajectory|
-|dof| used to specify the number of degrees of freedom of the robot|
-
-> **Note** in order to manipulate the robot the physics must be unpaused, it can be done so by the following command
-
-    ros2 service call /unpause_physics std_srvs/srv/Empty "{}"
-	
 ## Topics Associated with VX250
 the list of topics that are associated with the simulation are as follows
 
