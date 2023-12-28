@@ -40,15 +40,15 @@ Here there are a few arguments that have been used namely
 
 first build the package by going to parent directory
 ```
-	colcon build
+colcon build
 ```
 Then source the package using 
 ```
-	source install/setup.sh
+source install/setup.sh
 ```
 Finally run the package using the following command
 ```
-	ros2 run interbotix_vx250_sim vx250_custom_controller 
+ros2 run interbotix_vx250_sim vx250_custom_controller 
 ```
 
 ## Topics Associated with VX250
@@ -133,8 +133,9 @@ More information can be found [here](http://docs.ros.org/en/noetic/api/trajector
 
 ###  Arm Control
 to control the arm, a node must be used to publish information to the 
-`` /vx250/arm_controller/joint_trajectory
-``
+```
+/vx250/arm_controller/joint_trajectory
+```
 ##### The trajectory has multiple fields that must be entered namely
 
  - Header 
