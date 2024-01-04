@@ -1,0 +1,21 @@
+[1.047s] Invoking command in '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/src/interbotix_vx250_sim': PYTHONPATH=/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/build/interbotix_vx250_sim/prefix_override:/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/install/interbotix_vx250_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/interbotix_vx250_sim build --build-base /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/build/interbotix_vx250_sim/build install --record /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/build/interbotix_vx250_sim/install.log --single-version-externally-managed
+[1.327s] running egg_info
+[1.329s] writing ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/PKG-INFO
+[1.330s] writing dependency_links to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/dependency_links.txt
+[1.330s] writing entry points to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/entry_points.txt
+[1.330s] writing requirements to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/requires.txt
+[1.330s] writing top-level names to ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/top_level.txt
+[1.332s] reading manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+[1.333s] writing manifest file '../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info/SOURCES.txt'
+[1.334s] running build
+[1.334s] running build_py
+[1.334s] running install
+[1.335s] running install_lib
+[1.336s] running install_data
+[1.337s] running install_egg_info
+[1.339s] removing '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[1.340s] Copying ../../build/interbotix_vx250_sim/interbotix_vx250_sim.egg-info to /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/install/interbotix_vx250_sim/lib/python3.10/site-packages/interbotix_vx250_sim-0.0.0-py3.10.egg-info
+[1.341s] running install_scripts
+[1.360s] Installing vx250_custom_controller script to /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/install/interbotix_vx250_sim/lib/interbotix_vx250_sim
+[1.361s] writing list of installed files to '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/build/interbotix_vx250_sim/install.log'
+[1.385s] Invoked command in '/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/src/interbotix_vx250_sim' returned '0': PYTHONPATH=/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/build/interbotix_vx250_sim/prefix_override:/home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/install/interbotix_vx250_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/interbotix_vx250_sim build --build-base /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/build/interbotix_vx250_sim/build install --record /home/shenlong/Documents/GitHub/ViperX250_Simulation_Research/Ros2_Ws/build/interbotix_vx250_sim/install.log --single-version-externally-managed
